@@ -12,3 +12,6 @@ I made the following changes.
 ## index.html
 1. Change benefit-lead, benefit-brand, and bennefit-cost classes to benefit-section
 2. Added the search-engine-optimization id to the div with that class so the link in the nav would work.
+3. Updated the title.
+4. Added alt tags to the images.
+5.  Added semantic tags header, section, aside, and footer.
