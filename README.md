@@ -13,4 +13,8 @@ I made the following changes.
 2. Added the search-engine-optimization id to the div with that class so the link in the nav would work.
 3. Updated the title.
 4. Added alt tags to the images.
-5.  Added semantic tags header, section, aside, and footer.
+5. Added semantic tags header, section, aside, and footer.
+
+[Deployed application on Github](https://judo2000.github.io/week1_code_refactor/)
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot3.png)
